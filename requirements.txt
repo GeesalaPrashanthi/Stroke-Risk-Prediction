@@ -1,0 +1,27 @@
+# ===============================
+# DS701 Midterm - Stroke Risk Prediction
+# ===============================
+
+# Core Python scientific stack
+numpy
+pandas
+scikit-learn
+
+# Visualization & EDA
+matplotlib
+seaborn
+plotly    
+
+# Model evaluation
+imbalanced-learn
+scipy
+
+# For autograding and reproducibility
+otter-grader
+setuptools
+pytest
+
+# For clean notebook operation
+ipykernel
+notebook
+jupyterlab
